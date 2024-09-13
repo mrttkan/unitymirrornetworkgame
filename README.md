@@ -34,13 +34,6 @@ Oyunun amacı, mümkün olduğunca uzun süre hayatta kalmak ve en yüksek puan�
 4. Bir oyuncu "Host" olarak başlasın, diğer oyuncu "Client" olarak bağlansın.
 5. Oyuna başlayın ve karakterinizi seçerek oyunun keyfini çıkarın!
 
-## Ekran Görüntüleri
-Oyun ekran görüntüleri için `Screenshots/` klasörüne göz atabilirsiniz.
-
-## İletişim
-Projeyle ilgili sorularınız için benimle [GitHub üzerinden](https://github.com/mertkan200101117) iletişime geçebilirsiniz.
-
----
 
 Bu proje Yalova Üniversitesi Sanal Gerçeklik dersi için geliştirilmiştir.
 
@@ -82,11 +75,7 @@ The objective of the game is to survive as long as possible and achieve the high
 4. One player should select "Host," while the other player connects as a "Client."
 5. Enjoy the game by choosing your character and starting the obstacle challenge!
 
-## Screenshots
-You can check out the game's screenshots in the `Screenshots/` folder.
 
-## Contact
-For any questions related to the project, feel free to contact me via [GitHub](https://github.com/mertkan200101117).
 
 ---
 
