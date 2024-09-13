@@ -87,3 +87,9 @@ crashlytics-build.properties
 /[Oo]bj/
 /[Bb]uild/
 /[Ll]ogs/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
