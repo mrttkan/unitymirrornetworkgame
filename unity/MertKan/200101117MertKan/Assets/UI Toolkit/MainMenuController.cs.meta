@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2cd74fdb6e55fe44398bef4c88665b2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuAsset: {instanceID: 0}
+  - singlePlayerAsset: {instanceID: 0}
+  - multiPlayerAsset: {instanceID: 0}
+  - settingsAsset: {instanceID: 0}
+  - catPrefab: {fileID: 8612566021751942057, guid: dca8bfbf33ad4b445b24dbd3ad067227, type: 3}
+  - dogPrefab: {fileID: 4595513472829435138, guid: 82d1ea285afa18f4bb15f46522763996, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
